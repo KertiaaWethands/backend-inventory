@@ -59,3 +59,9 @@ npm start
 npm start
 ```
 Aplikasi akan berjalan di browser Anda. Anda dapat mengaksesnya di alamat http://localhost:3000 untuk frontend dan http://localhost:4000 untuk backend.
+
+
+
+# Developer 
+
+[Robby Sobari](https://github.com/robbysobarii)
